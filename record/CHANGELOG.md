@@ -1,4 +1,6 @@
 ## 7.1.2
+
+- Private distribution: include the HarmonyOS PCM/WAV implementation in this package; no separate platform package is required.
 - fix: The stream from `startStream()` now ends when the platform ends capture on its own (#632).
 
 ## 7.1.1

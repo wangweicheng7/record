@@ -1,0 +1,14 @@
+.dart_tool/
+build/
+.fvm/
+pubspec.lock
+pubspec_overrides.yaml
+example/.dart_tool/
+example/build/
+ohos/oh_modules/
+ohos/.hvigor/
+ohos/build/
+ohos/libs/
+ohos/oh-package-lock.json5
+ohos/BuildProfile.ets
+ohos/local.properties

@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "record",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}

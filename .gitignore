@@ -33,3 +33,12 @@ migrate_working_dir/
 
 # melos
 pubspec_overrides.yaml
+.fvm/
+!.fvmrc
+
+**/ohos/BuildProfile.ets
+**/ohos/oh_modules/
+**/ohos/.hvigor/
+**/ohos/libs/
+**/ohos/oh-package-lock.json5
+**/ohos/build/

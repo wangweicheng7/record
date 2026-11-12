@@ -12,7 +12,7 @@ environment:
   sdk: ^3.12.0
   flutter: ">=3.44.0"
 
-resolution: workspace
+publish_to: https://nexus.pawrio.cn/repository/pub-private/
 
 dependencies:
   flutter:
@@ -35,6 +35,8 @@ dev_dependencies:
 flutter:
   plugin:
     platforms:
+      ohos:
+        pluginClass: RecordOhosPlugin
       android:
         default_package: record_android
       ios:
